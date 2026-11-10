@@ -1,0 +1,9 @@
+market,country_code,tier,currency,launch_year
+Finland,FI,Core,EUR,2019
+Sweden,SE,Core,SEK,2020
+Norway,NO,Growth,NOK,2022
+Denmark,DK,Growth,DKK,2022
+Germany,DE,Growth,EUR,2023
+Estonia,EE,Early,EUR,2024
+Netherlands,NL,Early,EUR,2025
+Poland,PL,Early,PLN,2025
